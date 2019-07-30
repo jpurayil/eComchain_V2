@@ -36,7 +36,7 @@
 
     "auto_install": False,
     "installable": True,
-
+    #
     # "demo_title": "{MODULE_NAME}",
     # "demo_addons": [
     # ],
